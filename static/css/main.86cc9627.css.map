@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.86cc9627.css","mappings":"AAAA,EAGI,qBAAsB,CAFtB,QAAS,CACT,SAEJ,CAEA,YACI,qBAAsB,CACtB,aACJ","sources":["app.css"],"sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\n*::selection {\r\n    background-color: aqua;\r\n    color: whitesmoke;\r\n}"],"names":[],"sourceRoot":""}

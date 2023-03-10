@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/threejsandreactmodels/static/css/main.86cc9627.css",
+    "main.js": "/threejsandreactmodels/static/js/main.f6d4d7ab.js",
+    "index.html": "/threejsandreactmodels/index.html",
+    "main.86cc9627.css.map": "/threejsandreactmodels/static/css/main.86cc9627.css.map",
+    "main.f6d4d7ab.js.map": "/threejsandreactmodels/static/js/main.f6d4d7ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86cc9627.css",
+    "static/js/main.f6d4d7ab.js"
+  ]
+}
