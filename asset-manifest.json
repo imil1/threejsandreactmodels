@@ -1,7 +1,13 @@
 {
   "files": {
     "main.css": "/threejsandreactmodels/static/css/main.86cc9627.css",
-    "main.js": "/threejsandreactmodels/static/js/main.afc19559.js",
+    "main.js": "/threejsandreactmodels/static/js/main.2f6166ef.js",
+    "static/js/307.a82fa9f1.chunk.js": "/threejsandreactmodels/static/js/307.a82fa9f1.chunk.js",
+    "static/js/420.f3de9a93.chunk.js": "/threejsandreactmodels/static/js/420.f3de9a93.chunk.js",
+    "static/js/674.8aacc6c2.chunk.js": "/threejsandreactmodels/static/js/674.8aacc6c2.chunk.js",
+    "static/js/744.5dc77c3a.chunk.js": "/threejsandreactmodels/static/js/744.5dc77c3a.chunk.js",
+    "static/js/328.8555ef8a.chunk.js": "/threejsandreactmodels/static/js/328.8555ef8a.chunk.js",
+    "static/js/766.5f5af397.chunk.js": "/threejsandreactmodels/static/js/766.5f5af397.chunk.js",
     "static/media/mac-draco.glb": "/threejsandreactmodels/static/media/mac-draco.a5715f0d5ef8c6951eb3.glb",
     "static/media/chair-transformed.glb": "/threejsandreactmodels/static/media/chair-transformed.3705b6a3ea3ef7005675.glb",
     "static/media/bart-transformed.glb": "/threejsandreactmodels/static/media/bart-transformed.f34bfc5887af89352e83.glb",
@@ -9,10 +15,16 @@
     "static/media/logo-svg.svg": "/threejsandreactmodels/static/media/logo-svg.ca51caf2a4969974d53df1c86095753e.svg",
     "index.html": "/threejsandreactmodels/index.html",
     "main.86cc9627.css.map": "/threejsandreactmodels/static/css/main.86cc9627.css.map",
-    "main.afc19559.js.map": "/threejsandreactmodels/static/js/main.afc19559.js.map"
+    "main.2f6166ef.js.map": "/threejsandreactmodels/static/js/main.2f6166ef.js.map",
+    "307.a82fa9f1.chunk.js.map": "/threejsandreactmodels/static/js/307.a82fa9f1.chunk.js.map",
+    "420.f3de9a93.chunk.js.map": "/threejsandreactmodels/static/js/420.f3de9a93.chunk.js.map",
+    "674.8aacc6c2.chunk.js.map": "/threejsandreactmodels/static/js/674.8aacc6c2.chunk.js.map",
+    "744.5dc77c3a.chunk.js.map": "/threejsandreactmodels/static/js/744.5dc77c3a.chunk.js.map",
+    "328.8555ef8a.chunk.js.map": "/threejsandreactmodels/static/js/328.8555ef8a.chunk.js.map",
+    "766.5f5af397.chunk.js.map": "/threejsandreactmodels/static/js/766.5f5af397.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86cc9627.css",
-    "static/js/main.afc19559.js"
+    "static/js/main.2f6166ef.js"
   ]
 }
