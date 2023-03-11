@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/threejsandreactmodels/static/css/main.86cc9627.css",
-    "main.js": "/threejsandreactmodels/static/js/main.5fa792ef.js",
+    "main.js": "/threejsandreactmodels/static/js/main.ca354720.js",
     "static/media/mac-draco.glb": "/threejsandreactmodels/static/media/mac-draco.a5715f0d5ef8c6951eb3.glb",
     "static/media/chair-transformed.glb": "/threejsandreactmodels/static/media/chair-transformed.3705b6a3ea3ef7005675.glb",
     "static/media/bart-transformed.glb": "/threejsandreactmodels/static/media/bart-transformed.f34bfc5887af89352e83.glb",
-    "static/media/bg.jpeg": "/threejsandreactmodels/static/media/bg.1a97868b8d7bffa37e83.jpeg",
     "static/media/avtobot.png": "/threejsandreactmodels/static/media/avtobot.573d3a6d21ca0da875e8.png",
     "static/media/logo-svg.svg": "/threejsandreactmodels/static/media/logo-svg.ca51caf2a4969974d53df1c86095753e.svg",
     "index.html": "/threejsandreactmodels/index.html",
     "main.86cc9627.css.map": "/threejsandreactmodels/static/css/main.86cc9627.css.map",
-    "main.5fa792ef.js.map": "/threejsandreactmodels/static/js/main.5fa792ef.js.map"
+    "main.ca354720.js.map": "/threejsandreactmodels/static/js/main.ca354720.js.map"
   },
   "entrypoints": [
     "static/css/main.86cc9627.css",
-    "static/js/main.5fa792ef.js"
+    "static/js/main.ca354720.js"
   ]
 }
