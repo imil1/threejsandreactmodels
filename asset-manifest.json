@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/threejsandreactmodels/static/css/main.86cc9627.css",
-    "main.js": "/threejsandreactmodels/static/js/main.4e648051.js",
+    "main.js": "/threejsandreactmodels/static/js/main.da63a1ab.js",
     "static/media/mac-draco.glb": "/threejsandreactmodels/static/media/mac-draco.a5715f0d5ef8c6951eb3.glb",
     "static/media/chair-transformed.glb": "/threejsandreactmodels/static/media/chair-transformed.3705b6a3ea3ef7005675.glb",
     "static/media/bart-transformed.glb": "/threejsandreactmodels/static/media/bart-transformed.f34bfc5887af89352e83.glb",
@@ -9,10 +9,10 @@
     "static/media/logo-svg.svg": "/threejsandreactmodels/static/media/logo-svg.ca51caf2a4969974d53df1c86095753e.svg",
     "index.html": "/threejsandreactmodels/index.html",
     "main.86cc9627.css.map": "/threejsandreactmodels/static/css/main.86cc9627.css.map",
-    "main.4e648051.js.map": "/threejsandreactmodels/static/js/main.4e648051.js.map"
+    "main.da63a1ab.js.map": "/threejsandreactmodels/static/js/main.da63a1ab.js.map"
   },
   "entrypoints": [
     "static/css/main.86cc9627.css",
-    "static/js/main.4e648051.js"
+    "static/js/main.da63a1ab.js"
   ]
 }
